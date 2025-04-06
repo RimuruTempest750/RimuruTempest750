@@ -44,6 +44,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Raspberry_Pi_OS-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi OS">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox">
   <img src="https://img.shields.io/badge/Pterodactyl-5865F2?style=flat-square&logo=pterodactyl&logoColor=white" alt="Pterodactyl">
